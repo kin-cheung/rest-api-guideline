@@ -1,0 +1,8 @@
+site_name: "rest-api"
+site_description: "REST API Guideline"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

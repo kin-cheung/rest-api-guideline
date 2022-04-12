@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "rest-api"
+  description: "REST API Guideline"
+  annotations:
+    github.com/project-slug: kin-cheung/rest-api-guideline
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "team-a"
